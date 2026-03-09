@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/nazeer-basha-data-engineer?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazeer-basha-shaik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazeer%20Basha%20Shaik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeer-basha-data-engineer)
 [![Email](https://img.shields.io/badge/Gmail-nazeershaikwf%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazeershaikwf@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-%2B1(980)--483--2369-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19804832369)
 [![GCP Certified](https://img.shields.io/badge/GCP-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/data-engineer)
@@ -219,12 +219,12 @@ jobs:
 ### 📊 Migration Impact @ Wells Fargo
 
 ```
-📦 BTEQ scripts converted          :  180+ scripts
-✅ Automated conversion success rate:  98.3%
-⚡ Query performance improvement    :  ~45% faster on BigQuery vs Teradata
-🔁 CI/CD deployments to GCS        :  40+ successful pipeline runs
-🧪 Data validation checks passed   :  100% — zero data loss confirmed
-🔄 Live sync during migration       :  Real-time Teradata ↔ GCP maintained
+📦 BTEQ scripts converted           :  180+ scripts
+✅ Automated conversion success rate :  98.3%
+⚡ Query performance improvement     :  ~45% faster on BigQuery vs Teradata
+🔁 CI/CD deployments to GCS         :  40+ successful pipeline runs
+🧪 Data validation checks passed    :  100% — zero data loss confirmed
+🔄 Live sync during migration        :  Real-time Teradata ↔ GCP maintained
 ```
 
 ---
@@ -340,7 +340,7 @@ I'm actively seeking **Senior Data Engineer** and **Cloud Data Architect** roles
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nazeer-basha-shaik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazeer-basha-data-engineer)
 [![Email](https://img.shields.io/badge/Email-nazeershaikwf%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:nazeershaikwf@gmail.com)
 
 </div>
